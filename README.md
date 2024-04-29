@@ -1,4 +1,4 @@
-# Pokedex Kanto Entity Framework
+# Pokedex Kanto Entity con Framework
 
 Este proyecto utiliza Entity Framework para crear una base de datos para Pokémon y sus tipos, estableciendo una relación de muchos a muchos entre ellos. El primer paso implica cargar la base de datos utilizando la función LoadFromAPI. Esta función obtiene datos de la [PokéAPI](https://pokeapi.co/) y los carga en la base de datos.
 
